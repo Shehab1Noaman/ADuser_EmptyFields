@@ -1,3 +1,3 @@
-# ADuser_EmptyFields
+# Active Directory Script
 
-Report all Ad users that has no info on Company, Title and Department
+
