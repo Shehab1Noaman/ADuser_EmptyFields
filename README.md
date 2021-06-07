@@ -1,2 +1,3 @@
 # ADuser_EmptyFields
-This is to get all AD user account with empty fields
+
+Report all Ad users that has no info on Company, Title and Department
