@@ -1,4 +1,3 @@
-﻿
 
 $Aduser = Get-ADUser -Filter {-not(Title -like "*") -or -not(Department -like "*") -or -not(Company -like "*") } -Properties Name,Surname,GivenName,mail,Title,Department,Manager,Company 
 
